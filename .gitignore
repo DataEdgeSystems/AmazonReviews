@@ -1,0 +1,4 @@
+git rm *.class
+/data/
+AWSEMRResultToMySQL/mysql.properties
+*.class
